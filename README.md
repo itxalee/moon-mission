@@ -1,2 +1,1 @@
-## Demo site
-```https://itxalee.github.io/```
+## Not a GAME 💀
